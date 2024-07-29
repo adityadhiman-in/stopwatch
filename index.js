@@ -39,11 +39,11 @@ function stopTimer() {
 
 function resetTimer() {
     stopTimer();
-    hours = 0 + ' : ';
-    minutes = 0 + ' : ';
+    hours = 0;
+    minutes = 0 ;
     seconds = 0;
-    document.getElementById("hours").innerText = formatTime(hours);
-    document.getElementById("minutes").innerText = formatTime(minutes);
+    document.getElementById("hours").innerText = formatTime(hours + ' : ');
+    document.getElementById("minutes").innerText = formatTime(minutes + ' : ');
     document.getElementById("seconds").innerText = formatTime(seconds);
 }
 
