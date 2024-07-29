@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project is a simple stopwatch built using HTML, CSS, and JavaScript. It allows users to start, stop, and reset a timer with a user-friendly interface.
+This project is a beautiful stopwatch built using HTML, CSS, and JavaScript. It allows users to start, stop, and reset a timer with a user-friendly interface.
 
 ## Features
 
