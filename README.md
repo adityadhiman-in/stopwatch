@@ -1,6 +1,6 @@
 # Stopwatch Project
 
-![Preview](image.png)
+![Preview](./stopwatch.png)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/adityadhiman-in/notes_app_javascript/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/adityadhiman-in/notes_app_javascript.svg)](https://github.com/adityadhiman-in/notes_app_javascript/issues)
